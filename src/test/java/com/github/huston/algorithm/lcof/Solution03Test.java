@@ -1,4 +1,4 @@
-package com.github.huston.algorithm.swordpointingoffer;
+package com.github.huston.algorithm.lcof;
 
 import org.junit.jupiter.api.Test;
 
